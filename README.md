@@ -1,6 +1,7 @@
 
 # :man_technologist: Guilherme G Cadilhe
-![Credits to Martith on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8debd67d-e4d9-453b-aed3-998549f50bbd/dbulkw2-e3705b92-da3e-43e9-ae47-726a268f6fa1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGRlYmQ2N2QtZTRkOS00NTNiLWFlZDMtOTk4NTQ5ZjUwYmJkXC9kYnVsa3cyLWUzNzA1YjkyLWRhM2UtNDNlOS1hZTQ3LTcyNmEyNjhmNmZhMS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.eXlc6SWdfkDWvNJweOqJk7kxIPDC-upJZzoVWckJA6Y)
+![Credits to kirokaze on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/datjp1z-fc3069a4-9ffc-40d0-861b-a53e6a267634.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMTJjYmU4YTQtZjU1Yy00YjQwLTg1YmItZDhlMTQwNWU3Yjg0XC9kYXRqcDF6LWZjMzA2OWE0LTlmZmMtNDBkMC04NjFiLWE1M2U2YTI2NzYzNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EhZ4RizC9z6297iq2CQG7W1pWlGvBUG3fKjQtGVIImQ)
+
 >**Hello World!, If you want to see this profile in English, please scroll down to see more.**
 
 [![HitCount](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe.svg)](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe)
