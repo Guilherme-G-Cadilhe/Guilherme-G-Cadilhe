@@ -1,5 +1,5 @@
 
-# 🎲 Guilherme G Cadilhe 👑
+# 🎲 👑 Guilherme G Cadilhe
 ![Credits to kirokaze on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/datjp1z-fc3069a4-9ffc-40d0-861b-a53e6a267634.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMTJjYmU4YTQtZjU1Yy00YjQwLTg1YmItZDhlMTQwNWU3Yjg0XC9kYXRqcDF6LWZjMzA2OWE0LTlmZmMtNDBkMC04NjFiLWE1M2U2YTI2NzYzNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EhZ4RizC9z6297iq2CQG7W1pWlGvBUG3fKjQtGVIImQ)
 
 >**Hello World!, If you want to see this profile in English, please scroll down to see more.**
