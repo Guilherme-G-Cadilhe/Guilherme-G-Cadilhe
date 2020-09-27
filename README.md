@@ -25,8 +25,8 @@
 <a href="https://www.instagram.com/bobnini.guilherme/">📸IG</a>
 <br/>
 <a href="https://www.linkedin.com/in/guilhermegcadilhe/">💼Linkedin </a>
-<br/> 
->**Que tal bater um papo pelo Discord?** Bobnini#1655
+<br/>  <br/> 
+<a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **Que tal bater um papo pelo Discord?** Bobnini#1655
 
 ### Linguagens e Ferramentas
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -50,8 +50,8 @@
 <a href="https://www.instagram.com/bobnini.guilherme/">📸IG</a>
 <br/>
 <a href="https://www.linkedin.com/in/guilhermegcadilhe/">💼Linkedin </a>
-<br/> 
->**What about a chat on discord?** Bobnini#1655
+<br/> <br/> 
+<a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **What about a chat on discord?** Bobnini#1655
 
 ### Languagues and Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
