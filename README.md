@@ -1,12 +1,13 @@
 
 # :man_technologist: Guilherme G Cadilhe
 🌌 **Olá Mundo!**
->**Hello World!**
+>**Hello World!, If you want to see this profile in English, please scroll down to see more.**
 
 [![HitCount](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe.svg)](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe)
 ---
 <p align="center">
-  <a href="https://github.com/Guilherme-G-Cadilhe/Cursos">• 🎓Aprendizado</a> 
+  <a href="https://github.com/Guilherme-G-Cadilhe/Cursos">• 🎓 Cursos e Aprendizados</a> 
+    <a href="https://github.com/Guilherme-G-Cadilhe/Estudos-Materias">• 📘 Estudos e Matérias</a> 
 </p>
 
 ---
