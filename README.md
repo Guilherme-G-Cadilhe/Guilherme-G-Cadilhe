@@ -22,12 +22,14 @@
 - ☄️ Na jornada para ser FullStack
 
 ### Conecte-se comigo! 🌎
-<a href="https://www.instagram.com/bobnini.guilherme/">📸IG</a>
+<a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="https://www.instagram.com/bobnini.guilherme/">Instagram</a>
 <br/>
 <a><img align="left" alt="Bobnini's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><a href="https://www.linkedin.com/in/guilhermegcadilhe/">Linkedin </a>
 <br/>  <br/> 
-<a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **Que tal bater um papo pelo Discord?** Bobnini#1655
+<a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **Que tal bater um papo pelo Discord?** 
+>Bobnini#1655
 
 ### Linguagens e Ferramentas
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -48,11 +50,14 @@
 - ☄️ On the Full Stack journey
 
 ### Connect with me! 🌎
-<a href="https://www.instagram.com/bobnini.guilherme/">📸IG</a>
+<a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="https://www.instagram.com/bobnini.guilherme/">Instagram</a>
 <br/>
-<a href="https://www.linkedin.com/in/guilhermegcadilhe/">💼Linkedin </a>
-<br/> <br/> 
-<a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **What about a chat on discord?** Bobnini#1655
+<a><img align="left" alt="Bobnini's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="https://www.linkedin.com/in/guilhermegcadilhe/">Linkedin </a>
+<br/>  <br/> 
+<a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **What about a chat on discord?** 
+>Bobnini#1655
 
 ### Languagues and Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
