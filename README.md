@@ -24,7 +24,8 @@
 ### Conecte-se comigo! 🌎
 <a href="https://www.instagram.com/bobnini.guilherme/">📸IG</a>
 <br/>
-<a href="https://www.linkedin.com/in/guilhermegcadilhe/">💼Linkedin </a>
+<a><img align="left" alt="Bobnini's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="https://www.linkedin.com/in/guilhermegcadilhe/">Linkedin </a>
 <br/>  <br/> 
 <a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **Que tal bater um papo pelo Discord?** Bobnini#1655
 
