@@ -16,7 +16,7 @@
 **Estudante e programador iniciante, no começo da sua jornada para ser Full Stack e poder utilizar a tecnologia para impactar a vida das pessoas e ajudar o mundo.**
 
 - 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-- 🧠 Estudando tudo que posso, recentemente aprendi MySQL e espero aprender muito mais nos proximos meses.
+- 🧠 Estudando tudo que posso, no momento estou aprendendo HTML e CSS, em breve atualizarei com as anotações.
 - 📚 Iniciante e sempre aprendendo, qualquer dica e ajuda é bem-vinda.
 - 💬 Me faça qualquer pergunta ;)
 - 🐉🎲  Jogos, Calistenia, Nerdices e tudo que há de bom.
