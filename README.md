@@ -35,7 +35,7 @@
 >Bobnini#1655
 
 ### Linguagens e Ferramentas
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/> <img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
 
 ---
 
@@ -63,7 +63,7 @@
 >Bobnini#1655
 
 ### Languagues and Tools
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/> <img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
   </details>
   
 ![Bobnini's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy)
