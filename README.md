@@ -5,6 +5,8 @@
 >**Hello World!, If you want to see this profile in English, please scroll down to see more.**
 
 [![HitCount](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe.svg)](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-g-cadilhe&label=Profile%20views&color=0e75b6&style=flat" alt="GuilhermeGCadilhe" /> </p>
+
 ---
 <p align="center">
   <a href="https://github.com/Guilherme-G-Cadilhe/Cursos">• 🎓 Cursos e Aprendizados</a> |
