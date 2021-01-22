@@ -19,7 +19,7 @@
 **Estudante e programador iniciante, no começo da sua jornada para ser Full Stack e poder utilizar a tecnologia para impactar a vida das pessoas e ajudar o mundo.**
 
 - 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-- 🧠 Estudando tudo que posso, no momento estou aprendendo HTML,CSS,JavaScript,JQuery em breve atualizarei com as anotações.
+- 🧠 Estudando tudo que posso, no momento estou avançando meu HTML e CSS, com praticas de design responsivos e Flexbox, e aprendendo JavaScript
 - 📚 Iniciante e sempre aprendendo, qualquer dica e ajuda é bem-vinda.
 - 💬 Me faça qualquer pergunta ;)
 - 🐉🎲  Jogos, Calistenia, Nerdices e tudo que há de bom.
@@ -48,7 +48,7 @@
 **Student and beginner programmer, just starting his journey to become Full Stack and be able to use the technology to impact people's lives and change the world.**
 
 - 🏫 Currently on Analysis and Systems Development College at Cruzeiro do Sul.
-- 🧠 Learning everything i can, at the moment im learning HTML, CSS, JavaScript and JQuery, soon i will update my anotations.
+- 🧠 Learning everything i can, at the moment im advancing my knowledge of CSS and HTML with responsive designs and Flexbox, and learning JavaScript.
 - 📚 Beginner and always learning, every help and tip is welcome.
 - 💬 Ask me anything ;)
 - 🐉🎲  Games, Calisthenic, Nerdy and everything that is good.
