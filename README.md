@@ -16,12 +16,12 @@
 
 ---
 
-**Estudante e programador iniciante, no começo da sua jornada para ser Full Stack e poder utilizar a tecnologia para impactar a vida das pessoas e ajudar o mundo.**
+**Programador Front-End se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a tecnologia para afetar positivamente a vida de muitas pessoas e poder ajudar de alguma forma a todos que fazem a jornada da programação.**
 
 - 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 - 🧠 Estudando tudo que posso, no momento estou avançando meu HTML e CSS, com praticas de design responsivos e Flexbox, e aprendendo JavaScript
-- 📚 Iniciante e sempre aprendendo, qualquer dica e ajuda é bem-vinda.
-- 💬 Me faça qualquer pergunta ;)
+- 📚 A vida é uma jornada de aprendizado constante, a cada dia, a cada instante.
+- 💬 Toda dica é bem vinda :)
 - 🐉🎲  Jogos, Calistenia, Nerdices e tudo que há de bom.
 - ☄️ Na jornada para ser FullStack
 
@@ -45,14 +45,15 @@
   <summary> <b> Want to see the Profile Page in English? </b> <i>(Click here to Expand it!)</i> </summary>
   <br>
   
-**Student and beginner programmer, just starting his journey to become Full Stack and be able to use the technology to impact people's lives and change the world.**
+**Front-end programmer falling more and more in love with what he does, with the mission of being able to use technology to positively affect the lives of many people and to be able to help in some way everyone who walks the long journey of programming.**
 
 - 🏫 Currently on Analysis and Systems Development College at Cruzeiro do Sul.
 - 🧠 Learning everything i can, at the moment im advancing my knowledge of CSS and HTML with responsive designs and Flexbox, and learning JavaScript.
-- 📚 Beginner and always learning, every help and tip is welcome.
-- 💬 Ask me anything ;)
-- 🐉🎲  Games, Calisthenic, Nerdy and everything that is good.
+- 📚 Life is a constant learning journey, every day, every moment.
+- 💬 Every tip and help is welcome ;)
+- 🐉🎲 Games, Calisthenic, Nerdy and everything that is good.
 - ☄️ On the Full Stack journey
+
 
 ### Connect with me! 🌎
 <a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
