@@ -70,3 +70,5 @@
   </details>
   
 ![Bobnini's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-G-Cadilhe&theme=buefy&layout=compact]()
