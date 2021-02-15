@@ -37,7 +37,14 @@
 >Bobnini#1655
 
 ### Linguagens e Ferramentas
-<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/> <img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
+
+<p align="left">
+<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/>
+<img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="40"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="SASS" height="40"/>
+</p>
+
 
 ---
 
@@ -66,11 +73,16 @@
 >Bobnini#1655
 
 ### Languagues and Tools
-<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/> <img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
+<p align="left">
+<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/>
+<img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="40"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="SASS" height="40"/>
+</p>
   </details>
   
 ![Bobnini's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-g-cadilhe&repo=Projetos)](https://github.com/Guilherme-G-Cadilhe/Projetos)
+<!--[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-g-cadilhe&repo=Projetos)](https://github.com/Guilherme-G-Cadilhe/Projetos)-->
 
 
