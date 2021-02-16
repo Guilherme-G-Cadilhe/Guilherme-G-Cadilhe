@@ -81,6 +81,13 @@
 </p>
   </details>
   
+ <a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg)
+![](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/languages.svg)
+
+</a>
+  
 ![Bobnini's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy)
 
 <!--[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-g-cadilhe&repo=Projetos)](https://github.com/Guilherme-G-Cadilhe/Projetos)-->
