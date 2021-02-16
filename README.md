@@ -38,12 +38,7 @@
 
 ### Linguagens e Ferramentas
 
-<p align="left">
-<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/>
-<img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="SASS" height="40"/>
-</p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 
 ---
@@ -73,21 +68,21 @@
 >Bobnini#1655
 
 ### Languagues and Tools
-<p align="left">
-<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/>
-<img src="https://i.pinimg.com/originals/69/53/02/695302a395d0eb94a8bce6b95dbf92f6.png" alt="Html CSS" width="65"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JavaScript" height="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="SASS" height="40"/>
-</p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
   </details>
   
 ![Bobnini's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy)
 ![Bobnini's github stats](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg)
-![Bobnini's github stats](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/languages.svg)
 
 
-  >Python/C/PHP/ASP Gerados durante o Fork da criação desse Status ( Ignore )
+<!--![Bobnini's github stats](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/languages.svg)-->
+
+ <!-- >Python/C/PHP/ASP Gerados durante o Fork da criação desse Status ( Ignore )-->
 
 <!--[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-g-cadilhe&repo=Projetos)](https://github.com/Guilherme-G-Cadilhe/Projetos)-->
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10?exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" /></p>-->
+
+
 
 
