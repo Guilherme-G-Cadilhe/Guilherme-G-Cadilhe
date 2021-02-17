@@ -75,13 +75,8 @@
 ![Bobnini's github stats](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg)
 
 
-<!--![Bobnini's github stats](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/languages.svg)-->
 
- <!-- >Python/C/PHP/ASP Gerados durante o Fork da criação desse Status ( Ignore )-->
-
-<!--[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=guilherme-g-cadilhe&repo=Projetos)](https://github.com/Guilherme-G-Cadilhe/Projetos)-->
-
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10?exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" /></p>-->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" /></p>
 
 
 
