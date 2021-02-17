@@ -72,11 +72,11 @@
   </details>
   
 ![Bobnini's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy)
-![Bobnini's github stats](https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg)
 
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" /></p>
+<p>
+  <img src="https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" />
+</p>
 
 
 
