@@ -4,7 +4,6 @@
 
 >**Hello World!, If you want to see this profile in English, please scroll down to see more.**
 
-[![HitCount](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe.svg)](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-g-cadilhe&label=Profile%20views&color=0e75b6&style=flat" alt="GuilhermeGCadilhe" /> </p>
 
 ---
@@ -16,10 +15,11 @@
 
 ---
 
-**Programador Front-End se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a tecnologia para afetar positivamente a vida de muitas pessoas e poder ajudar de alguma forma a todos que fazem a jornada da programação.**
+**Desenvolvedor Front-End extremamente motivado, em constante desenvolvimento pessoal, e com uma sede de conhecimento. Com experiência em diversos projetos pequenos e vontade de aprender<br>
+Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a tecnologia para afetar positivamente a vida de muitas pessoas e poder ajudar de alguma forma a todos que fazem a jornada da programação.**
 
 - 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-- 🧠 Estudando tudo que posso, no momento estou avançando meu HTML e CSS, com praticas de design responsivos e Flexbox, e aprendendo JavaScript
+- 🧠 Estudando tudo que posso, no momento estou avançando meu JavaScript e Node.js
 - 📚 A vida é uma jornada de aprendizado constante, a cada dia, a cada instante.
 - 💬 Toda dica é bem vinda :)
 - 🐉🎲  Jogos, Calistenia, Nerdices e tudo que há de bom.
@@ -47,10 +47,13 @@
   <summary> <b> Want to see the Profile Page in English? </b> <i>(Click here to Expand it!)</i> </summary>
   <br>
   
-**Front-end programmer falling more and more in love with what he does, with the mission of being able to use technology to positively affect the lives of many people and to be able to help in some way everyone who walks the long journey of programming.**
+  
+**Extremely motivated Front-End Developer, in constant personal development, and with a thirst for knowledge. Experienced in several small projects and eager to learn.<br>
+Falling more and more in love with programming, with the mission of being able to use technology to positively affect the lives of many people and to be able to help in some way everyone who walks the long journey of programming.**
+
 
 - 🏫 Currently on Analysis and Systems Development College at Cruzeiro do Sul.
-- 🧠 Learning everything i can, at the moment im advancing my knowledge of CSS and HTML with responsive designs and Flexbox, and learning JavaScript.
+- 🧠 Learning everything i can, at the moment im advancing my knowledge of JavaScript and Node.js.
 - 📚 Life is a constant learning journey, every day, every moment.
 - 💬 Every tip and help is welcome ;)
 - 🐉🎲 Games, Calisthenic, Nerdy and everything that is good.
