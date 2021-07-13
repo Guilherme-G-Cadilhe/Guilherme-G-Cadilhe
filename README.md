@@ -98,19 +98,14 @@ Falling more and more in love with programming, with the mission of being able t
   
 <p>
  <img align="left" src="https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg" />
-</p>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy" />
 </p>
  
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-g-cadilhe&" alt="guilherme-g-cadilhe" />
-</p>
-
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" />
 </p>
+
 
 
 
