@@ -21,9 +21,7 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
 - 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 - 🧠 Estudando tudo que posso, no momento estou avançando meu JavaScript e Praticando com API
 - 📚 A vida é uma jornada de aprendizado constante, a cada dia, a cada instante.
-- 💬 Toda dica é bem vinda :)
-- 🐉🎲  Jogos, Calistenia, Nerdices e tudo que há de bom.
-- ☄️ Na jornada para ser FullStack
+
 
 ### Conecte-se comigo! 🌎
 <a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -66,9 +64,6 @@ Falling more and more in love with programming, with the mission of being able t
 - 🏫 Currently on Analysis and Systems Development College at Cruzeiro do Sul.
 - 🧠 Learning everything i can, at the moment im advancing my knowledge of JavaScript and Praticing with API.
 - 📚 Life is a constant learning journey, every day, every moment.
-- 💬 Every tip and help is welcome ;)
-- 🐉🎲 Games, Calisthenic, Nerdy and everything that is good.
-- ☄️ On the Full Stack journey
 
 
 ### Connect with me! 🌎
@@ -97,13 +92,13 @@ Falling more and more in love with programming, with the mission of being able t
   </details>
   
 <p>
- <img align="left" src="https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy" />
+ <img  src="https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy" />
 </p>
  
 <p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-g-cadilhe&" alt="guilherme-g-cadilhe" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-g-cadilhe&" alt="guilherme-g-cadilhe" />
 </p>
 
 
