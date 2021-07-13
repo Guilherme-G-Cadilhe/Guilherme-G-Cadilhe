@@ -15,11 +15,11 @@
 
 ---
 
-**Desenvolvedor Front-End extremamente motivado, em constante desenvolvimento pessoal, e com uma sede de conhecimento. Com experiência em diversos projetos pequenos e vontade de aprender<br>
+**Desenvolvedor Front-End extremamente motivado, em constante desenvolvimento pessoal, e com uma sede de conhecimento. Com experiência em diversos projetos e vontade de aprender<br>
 Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a tecnologia para afetar positivamente a vida de muitas pessoas e poder ajudar de alguma forma a todos que fazem a jornada da programação.**
 
 - 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-- 🧠 Estudando tudo que posso, no momento estou avançando meu JavaScript e Node.js
+- 🧠 Estudando tudo que posso, no momento estou avançando meu JavaScript e Praticando com API
 - 📚 A vida é uma jornada de aprendizado constante, a cada dia, a cada instante.
 - 💬 Toda dica é bem vinda :)
 - 🐉🎲  Jogos, Calistenia, Nerdices e tudo que há de bom.
@@ -38,7 +38,18 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
 
 ### Linguagens e Ferramentas
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
+  <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 
 ---
@@ -48,12 +59,12 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
   <br>
   
   
-**Extremely motivated Front-End Developer, in constant personal development, and with a thirst for knowledge. Experienced in several small projects and eager to learn.<br>
+**Extremely motivated Front-End Developer, in constant personal development, and with a thirst for knowledge. Experienced in several projects and eager to learn.<br>
 Falling more and more in love with programming, with the mission of being able to use technology to positively affect the lives of many people and to be able to help in some way everyone who walks the long journey of programming.**
 
 
 - 🏫 Currently on Analysis and Systems Development College at Cruzeiro do Sul.
-- 🧠 Learning everything i can, at the moment im advancing my knowledge of JavaScript and Node.js.
+- 🧠 Learning everything i can, at the moment im advancing my knowledge of JavaScript and Praticing with API.
 - 📚 Life is a constant learning journey, every day, every moment.
 - 💬 Every tip and help is welcome ;)
 - 🐉🎲 Games, Calisthenic, Nerdy and everything that is good.
@@ -71,15 +82,36 @@ Falling more and more in love with programming, with the mission of being able t
 >Bobnini#1655
 
 ### Languagues and Tools
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
+  <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
   </details>
   
-![Bobnini's github stats](https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy)
+<p>
+ <img align="left" src="https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg" />
+</p>
 
 <p>
-  <img src="https://github.com/Guilherme-G-Cadilhe/Github-Stats-Teste/blob/master/generated/overview.svg" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Guilherme-G-Cadilhe&show_icons=true&theme=buefy" />
 </p>
+ 
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-g-cadilhe&" alt="guilherme-g-cadilhe" />
+</p>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-g-cadilhe&layout=compact&show_icons=true&theme=buefy&langs_count=10&exclude_repo=Github-Stats-Teste" alt="guilherme-g-cadilhe" />
+</p>
+
 
 
 
