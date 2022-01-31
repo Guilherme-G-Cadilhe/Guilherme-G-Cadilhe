@@ -19,7 +19,7 @@
 Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a tecnologia para afetar positivamente a vida de muitas pessoas e poder ajudar de alguma forma a todos que fazem a jornada da programação.**
 
 - 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-- 🧠 Estudando tudo que posso, no momento estou avançando meu JavaScript e Praticando com API
+- 🧠 Estudando tudo que posso, no momento estou avançando meu React
 - 📚 A vida é uma jornada de aprendizado constante, a cada dia, a cada instante.
 
 
