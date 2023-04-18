@@ -15,12 +15,9 @@
 
 ---
 
-**Desenvolvedor Front-End extremamente motivado, em constante desenvolvimento pessoal, e com uma sede de conhecimento. Com experiência em diversos projetos e vontade de aprender<br>
+**Desenvolvedor FullStack extremamente motivado, em constante desenvolvimento pessoal, e com uma sede de conhecimento. Com experiência em diversos projetos e vontade de aprender<br>
 Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a tecnologia para afetar positivamente a vida de muitas pessoas e poder ajudar de alguma forma a todos que fazem a jornada da programação.**
 
-- 🏫 Estou atualmente na faculdade de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
-- 🧠 Estudando tudo que posso, no momento estou avançando meu React
-- 📚 A vida é uma jornada de aprendizado constante, a cada dia, a cada instante.
 
 
 ### Conecte-se comigo! 🌎
@@ -61,9 +58,6 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
 Falling more and more in love with programming, with the mission of being able to use technology to positively affect the lives of many people and to be able to help in some way everyone who walks the long journey of programming.**
 
 
-- 🏫 Currently on Analysis and Systems Development College at Cruzeiro do Sul.
-- 🧠 Learning everything i can, at the moment im advancing my knowledge of JavaScript and Praticing with API.
-- 📚 Life is a constant learning journey, every day, every moment.
 
 
 ### Connect with me! 🌎
