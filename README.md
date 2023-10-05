@@ -54,7 +54,7 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
   <br>
   
   
-**Extremely motivated Front-End Developer, in constant personal development, and with a thirst for knowledge. Experienced in several projects and eager to learn.<br>
+**Extremely motivated Fullstack Developer, in constant personal development, and with a thirst for knowledge. Experienced in several projects and eager to learn.<br>
 Falling more and more in love with programming, with the mission of being able to use technology to positively affect the lives of many people and to be able to help in some way everyone who walks the long journey of programming.**
 
 
