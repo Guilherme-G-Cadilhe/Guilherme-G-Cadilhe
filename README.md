@@ -29,7 +29,7 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
 </a><a href="https://www.linkedin.com/in/guilhermegcadilhe/">Linkedin </a>
 <br/>  <br/> 
 <a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **Que tal bater um papo pelo Discord?** 
->Bobnini#1655
+>Bobnini | ID:165612567241293826
 
 ### Linguagens e Ferramentas
 
@@ -68,7 +68,7 @@ Falling more and more in love with programming, with the mission of being able t
 </a><a href="https://www.linkedin.com/in/guilhermegcadilhe/">Linkedin </a>
 <br/>  <br/> 
 <a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **What about a chat on discord?** 
->Bobnini#1655
+>Bobnini | ID:165612567241293826
 
 ### Languagues and Tools
 <p align="left"> 
