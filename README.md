@@ -22,11 +22,11 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
 
 ### Conecte-se comigo! 🌎
 <a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="https://www.instagram.com/bobnini.guilherme/">Instagram</a>
+</a><a href="https://instagram.com/guicadilhe">Instagram</a>
 <br/>
 
 <a><img align="left" alt="Bobnini's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://www.linkedin.com/in/guilhermegcadilhe/">Linkedin </a>
+</a><a href="https://br.linkedin.com/in/guilhermecadilhe">Linkedin </a>
 <br/>  <br/> 
 <a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **Que tal bater um papo pelo Discord?** 
 >Bobnini | ID:165612567241293826
@@ -52,10 +52,10 @@ Falling more and more in love with programming, with the mission of being able t
 
 ### Connect with me! 🌎
 <a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="https://www.instagram.com/bobnini.guilherme/">Instagram</a>
+</a><a href="https://instagram.com/guicadilhe">Instagram</a>
 <br/> <br/>
 <a><img align="left" alt="Bobnini's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://www.linkedin.com/in/guilhermegcadilhe/">Linkedin </a>
+</a><a href="https://br.linkedin.com/in/guilhermecadilhe">Linkedin </a>
 <br/>  <br/> 
 <a> <img align="left" alt="Bobnini's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a> **What about a chat on discord?** 
 >Bobnini | ID:165612567241293826
