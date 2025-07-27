@@ -15,10 +15,15 @@
 
 ---
 
-**Desenvolvedor FullStack extremamente motivado, em constante desenvolvimento pessoal, e com uma sede de conhecimento. Com experiência em diversos projetos e vontade de aprender<br>
-Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a tecnologia para afetar positivamente a vida de muitas pessoas e poder ajudar de alguma forma a todos que fazem a jornada da programação.**
+Sou um Engenheiro de Software Sênior especialista em arquitetar e construir sistemas distribuídos, pipelines de integração de dados e APIs de alta performance para ecossistemas complexos de varejo e e-commerce.<br/>
 
+Meu foco é transformar operações de negócio críticas, desde promoções em tempo real no PDV (Ponto de Venda) até a sincronização de inventário omnichannel, em soluções de software resilientes e escaláveis que geram valor de negócio mensurável. Sou motivado por resolver desafios de larga escala onde performance, resiliência e impacto direto no negócio são fundamentais.<br/><br/>
 
+🚀 **Foco Atual**<br/>
+🔭 Atualmente, estou trabalhando para expandir meu conhecimento em arquiteturas cloud-native e práticas de DevOps.<br/>
+🌱 Estou aprendendo mais sobre Sistemas Fiscais e padrões avançados de concorrência em Go.<br/>
+👯 Busco colaborar em projetos open-source relacionados a engenharia de dados ou ferramentas para desenvolvedores.<br/>
+<br/>
 
 ### Conecte-se comigo! 🌎
 <a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -44,11 +49,16 @@ Se apaixonando cada dia mais pelo que faz, com o missão de conseguir utilizar a
   <br>
   
   
-**Extremely motivated Fullstack Developer, in constant personal development, and with a thirst for knowledge. Experienced in several projects and eager to learn.<br>
-Falling more and more in love with programming, with the mission of being able to use technology to positively affect the lives of many people and to be able to help in some way everyone who walks the long journey of programming.**
+I am a Senior Software Engineer specializing in architecting and building distributed systems, data integration pipelines, and high-performance APIs for complex retail and e-commerce ecosystems.<br/>
+
+My focus is on transforming critical business operations, from real-time promotions at the POS to omnichannel inventory synchronization, into resilient, scalable software solutions that drive measurable business value. I thrive on solving large-scale challenges where performance, resilience, and direct business impact are paramount.<br/><br/>
 
 
-
+🚀 **Current Focus**<br/>
+🔭 I’m currently working on expanding my knowledge in cloud-native architectures and DevOps practices.<br/>
+🌱 I’m currently learning more about Fiscal Systems and advanced concurrency patterns in Go.<br/>
+👯 I’m looking to collaborate on open-source projects related to data engineering or developer tools.<br/>
+<br/>
 
 ### Connect with me! 🌎
 <a><img align="left" alt="Bobnini's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
