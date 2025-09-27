@@ -15,9 +15,9 @@
 
 ---
 
-Sou um Engenheiro de Software Sênior especialista em arquitetar e construir sistemas distribuídos, pipelines de integração de dados e APIs de alta performance para ecossistemas complexos de varejo e e-commerce.<br/>
+Engenheiro de Software Sênior e Arquiteto de Soluções com mais de 4 anos de experiência na construção de sistemas distribuídos e APIs de alta performance para ecossistemas complexos. Especialista em Node.js, Golang e arquiteturas orientadas a eventos, com foco em transformar desafios de negócio em soluções escaláveis que geram valor mensurável.<br/>
 
-Meu foco é transformar operações de negócio críticas, desde promoções em tempo real no PDV (Ponto de Venda) até a sincronização de inventário omnichannel, em soluções de software resilientes e escaláveis que geram valor de negócio mensurável. Sou motivado por resolver desafios de larga escala onde performance, resiliência e impacto direto no negócio são fundamentais.<br/><br/>
+Meu foco é transformar operações de negócio críticas, em soluções de software resilientes e escaláveis que geram valor de negócio mensurável. Sou motivado por resolver desafios de larga escala onde performance, resiliência e impacto direto no negócio são fundamentais.<br/><br/>
 
 🚀 **Foco Atual**<br/>
 🔭 Atualmente, estou trabalhando para expandir meu conhecimento em arquiteturas cloud-native e práticas de DevOps.<br/>
@@ -114,9 +114,9 @@ Meu foco é transformar operações de negócio críticas, desde promoções em 
   <br>
   
   
-I am a Senior Software Engineer specializing in architecting and building distributed systems, data integration pipelines, and high-performance APIs for complex retail and e-commerce ecosystems.<br/>
+Senior Software Engineer and Solutions Architect with over 4 years of experience building distributed systems and high performance APIs for complex ecosystems. Specialist in Node.js, Golang, and event-driven architectures, focused on transforming business challenges into scalable solutions that generate measurable value.<br/>
 
-My focus is on transforming critical business operations, from real-time promotions at the POS to omnichannel inventory synchronization, into resilient, scalable software solutions that drive measurable business value. I thrive on solving large-scale challenges where performance, resilience, and direct business impact are paramount.<br/><br/>
+My focus is on transforming critical business operations, into resilient, scalable software solutions that drive measurable business value. I thrive on solving large-scale challenges where performance, resilience, and direct business impact are paramount.<br/><br/>
 
 
 🚀 **Current Focus**<br/>
