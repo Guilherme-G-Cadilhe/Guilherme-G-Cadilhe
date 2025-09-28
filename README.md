@@ -15,7 +15,7 @@
 
 ---
 
-Engenheiro de Software Sênior e Arquiteto de Soluções com mais de 4 anos de experiência na construção de sistemas distribuídos e APIs de alta performance para ecossistemas complexos. Especialista em Node.js, Golang e arquiteturas orientadas a eventos, com foco em transformar desafios de negócio em soluções escaláveis que geram valor mensurável.<br/>
+Engenheiro de Software Sênior e Arquiteto de Soluções com anos de experiência na construção de sistemas distribuídos e APIs de alta performance para ecossistemas complexos. Especialista em Node.js, Golang e arquiteturas orientadas a eventos, com foco em transformar desafios de negócio em soluções escaláveis que geram valor mensurável.<br/>
 
 Meu foco é transformar operações de negócio críticas, em soluções de software resilientes e escaláveis que geram valor de negócio mensurável. Sou motivado por resolver desafios de larga escala onde performance, resiliência e impacto direto no negócio são fundamentais.<br/><br/>
 
@@ -114,7 +114,7 @@ Meu foco é transformar operações de negócio críticas, em soluções de soft
   <br>
   
   
-Senior Software Engineer and Solutions Architect with over 4 years of experience building distributed systems and high performance APIs for complex ecosystems. Specialist in Node.js, Golang, and event-driven architectures, focused on transforming business challenges into scalable solutions that generate measurable value.<br/>
+Senior Software Engineer and Solutions Architect with years of experience building distributed systems and high performance APIs for complex ecosystems. Specialist in Node.js, Golang, and event-driven architectures, focused on transforming business challenges into scalable solutions that generate measurable value.<br/>
 
 My focus is on transforming critical business operations, into resilient, scalable software solutions that drive measurable business value. I thrive on solving large-scale challenges where performance, resilience, and direct business impact are paramount.<br/><br/>
 
