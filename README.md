@@ -8,20 +8,18 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/Guilherme-G-Cadilhe/Cursos">• 🎓 Cursos e Aprendizados</a> |
-    <a href="https://github.com/Guilherme-G-Cadilhe/Estudos-Materias">• 📘 Estudos e Matérias</a> |
-   <a href="https://github.com/Guilherme-G-Cadilhe/Projetos">• 🛠️ Projetos</a> 
+  <a href="https://github.com/Guilherme-G-Cadilhe/Cursos">• 🎓 Cursos e Aprendizados (Antigo)</a> |
+    <a href="https://github.com/Guilherme-G-Cadilhe/Estudos-Materias">• 📘 Estudos e Matérias (Antigo)</a> |
+   <a href="https://github.com/Guilherme-G-Cadilhe/Projetos">• 🛠️ Projetos (Antigo)</a> 
 </p>
 
 ---
 
-Engenheiro de Software Sênior e Arquiteto de Soluções com anos de experiência na construção de sistemas distribuídos e APIs de alta performance para ecossistemas complexos. Especialista em Node.js, Golang e arquiteturas orientadas a eventos, com foco em transformar desafios de negócio em soluções escaláveis que geram valor mensurável.<br/>
-
-Meu foco é transformar operações de negócio críticas, em soluções de software resilientes e escaláveis que geram valor de negócio mensurável. Sou motivado por resolver desafios de larga escala onde performance, resiliência e impacto direto no negócio são fundamentais.<br/><br/>
+Engenheiro de Software Sênior e Arquiteto de Soluções focado em transformar desafios de negócio complexos em sistemas distribuídos de alta performance. Atuo na interseção entre a flexibilidade do ecossistema Node.js/Typescript e a robustez e concorrência do Go (Golang).<br/><br/>
 
 🚀 **Foco Atual**<br/>
 🔭 Atualmente, estou trabalhando para expandir meu conhecimento em arquiteturas cloud-native e práticas de DevOps.<br/>
-🌱 Estou aprendendo mais sobre Marketing Digital e padrões avançados de concorrência em Go.<br/>
+🌱 Estou aprendendo mais sobre Marketing Digital.<br/>
 👯 Busco colaborar em projetos open-source relacionados a engenharia de dados ou ferramentas para desenvolvedores.<br/>
 <br/>
 
@@ -114,14 +112,12 @@ Meu foco é transformar operações de negócio críticas, em soluções de soft
   <br>
   
   
-Senior Software Engineer and Solutions Architect with years of experience building distributed systems and high performance APIs for complex ecosystems. Specialist in Node.js, Golang, and event-driven architectures, focused on transforming business challenges into scalable solutions that generate measurable value.<br/>
-
-My focus is on transforming critical business operations, into resilient, scalable software solutions that drive measurable business value. I thrive on solving large-scale challenges where performance, resilience, and direct business impact are paramount.<br/><br/>
+Senior Software Engineer and Solutions Architect focused on transforming complex business challenges into high-performance distributed systems. I operate at the intersection of Node.js/TypeScript flexibility and Go (Golang) robustness and concurrency.<br/><br/>
 
 
 🚀 **Current Focus**<br/>
 🔭 I’m currently working on expanding my knowledge in cloud-native architectures and DevOps practices.<br/>
-🌱 I’m currently learning more about Digital Marketing and advanced concurrency patterns in Go.<br/>
+🌱 I’m currently learning more about Digital Marketing.<br/>
 👯 I’m looking to collaborate on open-source projects related to data engineering or developer tools.<br/>
 <br/>
 
